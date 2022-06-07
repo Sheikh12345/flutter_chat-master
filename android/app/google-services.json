@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "193223077504",
+    "project_id": "webrtc-834c6",
+    "storage_bucket": "webrtc-834c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193223077504:android:9b8755879e04f25647c065",
+        "android_client_info": {
+          "package_name": "com.example.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193223077504-suovchm1ds3sl3gal3v8j2cs7anq0e65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ed49jqLWtsoKx-Dc9fbCP8V8xQbbLQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193223077504-suovchm1ds3sl3gal3v8j2cs7anq0e65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193223077504:android:3ef1b7d4e0621bee47c065",
+        "android_client_info": {
+          "package_name": "com.nostratic.flutter_chat_head"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193223077504-suovchm1ds3sl3gal3v8j2cs7anq0e65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ed49jqLWtsoKx-Dc9fbCP8V8xQbbLQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193223077504-suovchm1ds3sl3gal3v8j2cs7anq0e65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193223077504:android:2a92b6151eabb05647c065",
+        "android_client_info": {
+          "package_name": "com.nostratic.story_slider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193223077504-suovchm1ds3sl3gal3v8j2cs7anq0e65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ed49jqLWtsoKx-Dc9fbCP8V8xQbbLQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193223077504-suovchm1ds3sl3gal3v8j2cs7anq0e65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193223077504:android:af96f1cccea659de47c065",
+        "android_client_info": {
+          "package_name": "com.nostratic.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193223077504-suovchm1ds3sl3gal3v8j2cs7anq0e65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ed49jqLWtsoKx-Dc9fbCP8V8xQbbLQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193223077504-suovchm1ds3sl3gal3v8j2cs7anq0e65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

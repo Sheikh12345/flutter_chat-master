@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<RelativeLayout
+    android:id="@+id/layout_widget"
+    android:layout_margin="10dp"
+    android:layout_centerHorizontal="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+<TextView
+    android:id="@+id/textview"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:textSize="22sp"
+    android:text="UBER"
+    android:textStyle="bold"
+    android:gravity="center"
+    android:textColor="@android:color/white"
+    android:background="@drawable/black_circle"
+
+    />
+
+
+
+
+</RelativeLayout>
+
+
+
+
+</RelativeLayout>
